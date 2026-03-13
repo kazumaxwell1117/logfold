@@ -1,0 +1,240 @@
+2026-03-13T08:00:01.660Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:02.196Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:03.366Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:04.555Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:06.230Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:07.339Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:08.094Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:09.477Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:10.013Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:11.348Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:13.089Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:14.783Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:16.416Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:18.242Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:18.721Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:20.451Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:21.021Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:22.776Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:23.676Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:25.271Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:26.996Z [INFO]  Server started on port 8080
+2026-03-13T08:00:27.540Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:28.029Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:29.169Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:30.258Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:31.066Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:32.643Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:32.782Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:32.919Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:34.617Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:35.269Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:36.316Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:36.926Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:37.402Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:38.900Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:40.219Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:41.004Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:41.999Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:00:43.734Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:45.733Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:47.293Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:48.088Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:48.914Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:49.158Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:49.689Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:00:49.978Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:50.522Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:00:51.564Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:00:52.046Z [INFO]  Processing background job: email_digest
+2026-03-13T08:00:52.817Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:53.315Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:54.383Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:00:55.741Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:57.664Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:00:58.993Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:00.794Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:00.877Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:01.938Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:03.880Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:05.297Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:06.081Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:07.798Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:09.195Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:09.448Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:11.237Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:01:12.669Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:12.994Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:14.937Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:15.812Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:17.494Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:19.031Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:20.647Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:21.135Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:22.194Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:24.094Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:24.539Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:25.507Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:27.203Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:28.585Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:29.345Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:29.602Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:31.322Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:32.880Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:33.770Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:34.798Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:01:35.700Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:01:37.302Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:37.555Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:39.119Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:39.524Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:39.952Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:40.292Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:40.428Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:40.817Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:42.106Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:01:44.039Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:45.072Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:46.803Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:48.226Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:48.605Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:49.937Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:51.709Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:53.009Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:54.060Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:55.486Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:57.485Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:01:58.282Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:01:58.681Z [INFO]  Processing background job: email_digest
+2026-03-13T08:01:59.884Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:01.086Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:02:01.434Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:01.557Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:01.666Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:03.383Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:04.950Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:06.360Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:02:06.650Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:07.808Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:09.422Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:11.414Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:11.779Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:12.747Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:14.612Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:15.090Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:16.861Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:18.730Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:19.242Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:19.379Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:19.974Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:20.489Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:21.168Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:22.274Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:22.846Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:24.490Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:25.771Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:02:26.518Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:02:27.129Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:28.323Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:29.261Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:31.049Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:31.397Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:31.601Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:33.544Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:35.139Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:35.943Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:37.861Z [INFO]  Server started on port 8080
+2026-03-13T08:02:38.879Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:40.315Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:41.589Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:43.338Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:45.269Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:46.407Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:02:47.348Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:49.121Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:51.080Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:52.958Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:54.065Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:02:54.412Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:55.581Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:55.971Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:57.123Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:02:58.248Z [INFO]  Processing background job: email_digest
+2026-03-13T08:02:58.366Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:00.233Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:01.214Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:02.884Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:03.339Z [INFO]  Processing background job: email_digest
+2026-03-13T08:03:04.665Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:04.753Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:06.422Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:08.138Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:08.524Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:08.956Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:09.325Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:10.374Z [INFO]  Processing background job: email_digest
+2026-03-13T08:03:11.721Z [INFO]  Processing background job: email_digest
+2026-03-13T08:03:13.286Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:13.612Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:14.831Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:03:15.037Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:15.784Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:17.261Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:18.402Z [INFO]  Processing background job: email_digest
+2026-03-13T08:03:19.568Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:20.785Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:21.853Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:23.539Z [INFO]  Processing background job: email_digest
+2026-03-13T08:03:25.209Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:25.506Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:27.394Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:28.621Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:28.817Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:29.405Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:29.876Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:03:30.523Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:30.689Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:32.350Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:32.630Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:33.749Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:34.755Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:03:35.985Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:03:36.122Z [INFO]  Processing background job: email_digest
+2026-03-13T08:03:37.758Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:39.668Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:03:41.616Z [WARN]  Response time exceeded threshold: 2500ms
+2026-03-13T08:03:41.825Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:42.812Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:43.558Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:44.892Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:46.007Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:47.328Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:48.456Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:48.944Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:50.442Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:51.089Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:52.095Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:53.215Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:54.387Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:03:56.120Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:57.179Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:58.298Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:03:58.885Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:04:00.396Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:04:01.547Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:04:03.422Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:04:05.296Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:04:07.276Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:04:07.887Z [INFO]  Processing background job: email_digest
+2026-03-13T08:04:09.856Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:04:11.081Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:04:12.989Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:04:13.483Z [ERROR] Failed to connect to Redis: connection refused
+2026-03-13T08:04:15.283Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:04:16.279Z [WARN]  Cache miss for key: session_store
+2026-03-13T08:04:16.639Z [INFO]  Database connection established
+2026-03-13T08:04:17.572Z [INFO]  Config reloaded successfully
+2026-03-13T08:04:17.901Z [ERROR] Disk usage above 90% on /dev/sda1
+2026-03-13T08:04:18.784Z [INFO]  Scheduled maintenance task completed
+2026-03-13T08:04:19.769Z [INFO]  TLS certificate renewed successfully
+2026-03-13T08:04:20.496Z [WARN]  Deprecated API endpoint called: /api/v1/ping

@@ -1,0 +1,14 @@
+[package]
+name = "logfold"
+version = "0.1.0"
+edition = "2021"
+description = "Collapse duplicate log messages in large log files"
+
+[[bin]]
+name = "logfold"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+regex = "1"
+anyhow = "1"
